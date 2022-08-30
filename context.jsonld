@@ -1,0 +1,13 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "connectsensors": "https://connectsensors.pt/dataModel/",
+        "schema": "https://schema.org/",
+        "Device": "connectsensors:Asset",
+        "temperature": "connectsensors:temperature",
+        "humidity": "connectsensors:humidity",
+        "lux": "connectsensors:lux"
+    }
+}
