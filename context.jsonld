@@ -5,7 +5,7 @@
         "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
         "connectsensors": "https://connectsensors.pt/dataModel/",
         "schema": "https://schema.org/",
-        "Device": "connectsensors:Asset",
+        "Device": "connectsensors:Device",
         "temperature": "connectsensors:temperature",
         "humidity": "connectsensors:humidity",
         "lux": "connectsensors:lux"
